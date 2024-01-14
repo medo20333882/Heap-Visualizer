@@ -1,0 +1,33 @@
+D:\DSProject\DSProject\Debug\DSProject.vcxproj.AssemblyReference.cache
+D:\DSProject\DSProject\Debug\DSProject.Home.resources
+D:\DSProject\DSProject\Debug\DSProject.Operations.resources
+D:\DSProject\DSProject\Debug\DSProject.vcxproj.GenerateResource.cache
+D:\DSProject\DSProject\Debug\DSProject.Insert.resources
+D:\DSProject\DSProject\Debug\DSProject.Delete.resources
+C:\Users\medo2\OneDrive\Desktop\DSProject\DSProject\Debug\DSProject.vcxproj.AssemblyReference.cache
+C:\Users\medo2\OneDrive\Desktop\DSProject\DSProject\Debug\DSProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\medo2\OneDrive\Desktop\DSProject\DSProject\Debug\DSProject.Delete.resources
+C:\Users\medo2\OneDrive\Desktop\DSProject\DSProject\Debug\DSProject.Home.resources
+C:\Users\medo2\OneDrive\Desktop\DSProject\DSProject\Debug\DSProject.Insert.resources
+C:\Users\medo2\OneDrive\Desktop\DSProject\DSProject\Debug\DSProject.Operations.resources
+C:\Users\medo2\OneDrive\Desktop\DSProject\DSProject\Debug\DSProject.vcxproj.GenerateResource.cache
+C:\Users\medo2\Downloads\DSProject\DSProject\Debug\DSProject.vcxproj.AssemblyReference.cache
+C:\Users\medo2\Downloads\DSProject\DSProject\Debug\DSProject.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\medo2\Downloads\DSProject\DSProject\Debug\DSProject.Delete.resources
+C:\Users\medo2\Downloads\DSProject\DSProject\Debug\DSProject.Home.resources
+C:\Users\medo2\Downloads\DSProject\DSProject\Debug\DSProject.Insert.resources
+C:\Users\medo2\Downloads\DSProject\DSProject\Debug\DSProject.Operations.resources
+C:\Users\medo2\Downloads\DSProject\DSProject\Debug\DSProject.vcxproj.GenerateResource.cache
+D:\heap Visualization\DSProject\DSProject\Debug\DSProject.vcxproj.AssemblyReference.cache
+D:\heap Visualization\DSProject\DSProject\Debug\DSProject.vcxproj.SuggestedBindingRedirects.cache
+D:\heap Visualization\DSProject\DSProject\Debug\DSProject.Delete.resources
+D:\heap Visualization\DSProject\DSProject\Debug\DSProject.Home.resources
+D:\heap Visualization\DSProject\DSProject\Debug\DSProject.Insert.resources
+D:\heap Visualization\DSProject\DSProject\Debug\DSProject.Operations.resources
+D:\heap Visualization\DSProject\DSProject\Debug\DSProject.vcxproj.GenerateResource.cache
+D:\Programming\Visual studio\heap Visualization\DSProject\DSProject\Debug\DSProject.vcxproj.AssemblyReference.cache
+D:\Programming\Visual studio\heap Visualization\DSProject\DSProject\Debug\DSProject.Delete.resources
+D:\Programming\Visual studio\heap Visualization\DSProject\DSProject\Debug\DSProject.Home.resources
+D:\Programming\Visual studio\heap Visualization\DSProject\DSProject\Debug\DSProject.Insert.resources
+D:\Programming\Visual studio\heap Visualization\DSProject\DSProject\Debug\DSProject.Operations.resources
+D:\Programming\Visual studio\heap Visualization\DSProject\DSProject\Debug\DSProject.vcxproj.GenerateResource.cache
